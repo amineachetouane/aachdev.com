@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48.075" height="40.836" viewBox="0 0 48.075 40.836">
+  <g id="anaytics" transform="translate(0.75 0.75)">
+    <path id="Path_3295" data-name="Path 3295" d="M145.451,75.63V65.254h12.57V75.63" transform="translate(-145.451 -45.015)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_3296" data-name="Path 3296" d="M181.4,55.212V43.124h12.57V73.738" transform="translate(-148.523 -43.124)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    <path id="Path_3297" data-name="Path 3297" d="M163.423,74.66V53.908h12.57v2.965" transform="translate(-146.987 -44.045)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    <g id="Group_1941" data-name="Group 1941" transform="translate(22.338 12.088)">
+      <circle id="Ellipse_33" data-name="Ellipse 33" cx="10.535" cy="10.535" r="10.535" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <circle id="Ellipse_34" data-name="Ellipse 34" cx="7.468" cy="7.468" r="7.468" transform="translate(3.068 3.068)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+      <line id="Line_88" data-name="Line 88" x2="7.607" y2="8.522" transform="translate(16.82 18.976)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="1.5"/>
+    </g>
+  </g>
+</svg>
